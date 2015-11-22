@@ -1,0 +1,15 @@
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\MouseHardware.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\MouseHardware.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.Common.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.HAL.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.System.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.Core.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.Common.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.System.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\bin\Debug\Cosmos.Core.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\obj\Debug\MouseHardware.csprojResolveAssemblyReference.cache
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\obj\Debug\MouseHardware.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\MouseHardware\obj\Debug\MouseHardware.pdb

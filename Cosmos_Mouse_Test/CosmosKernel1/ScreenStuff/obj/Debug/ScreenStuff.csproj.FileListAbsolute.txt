@@ -1,0 +1,15 @@
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\ScreenStuff.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\ScreenStuff.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.Common.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.HAL.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.System.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.Core.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.Common.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.System.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\bin\Debug\Cosmos.Core.pdb
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\obj\Debug\ScreenStuff.csprojResolveAssemblyReference.cache
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\obj\Debug\ScreenStuff.dll
+C:\Users\Eddy\Downloads\CosmosKernel1\ScreenStuff\obj\Debug\ScreenStuff.pdb
