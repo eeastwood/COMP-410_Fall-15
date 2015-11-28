@@ -1,0 +1,17 @@
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\HardwareSys.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\HardwareSys.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.Common.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.Debug.Kernel.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.HAL.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.System.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Hardware.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.Core.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Hardware.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.Common.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.HAL.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.System.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.Debug.Kernel.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\bin\Debug\Cosmos.Core.pdb
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\obj\Debug\HardwareSys.csprojResolveAssemblyReference.cache
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\obj\Debug\HardwareSys.dll
+c:\users\eddy\documents\visual studio 2015\Projects\WatermelOS\HardwareSys\obj\Debug\HardwareSys.pdb
